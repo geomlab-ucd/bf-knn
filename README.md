@@ -13,6 +13,10 @@ on top of sorting and merging functions in the
 Compared to state-of-the-art approaches, **bf-knn** is faster and handles larger
 inputs.
 
+Shengren Li and Nina Amenta.
+[**Brute-Force k-Nearest Neighbors Search on the GPU**](http://dx.doi.org/10.1007/978-3-319-25087-8_25).
+Similarity Search and Applications 2015.
+
 Instructions to download **bf-knn** and compile the demo:
 ```
 git clone git@github.com:NVlabs/moderngpu.git
